@@ -1,6 +1,9 @@
 _repo: The-Ruins--Or-Meditation-on-the-Revolutions-of-Empires-and-the-Law-of-Nature_1397
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Les ruines. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Volney, C.-F. (Constantin-François)
@@ -15,6 +18,8 @@ creator:
     - http://en.wikipedia.org/wiki/Constantin-Fran%C3%A7ois_Chasseb%C5%93uf
     - http://fr.wikipedia.org/wiki/Volney
 description: Translation from French of Les ruines
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1397#The-Ruins--Or-Meditation-on-the-Revolutions-of-Empires-and-the-Law-of-Nature
 gutenberg_issued: '2006-05-03'
 gutenberg_type: Text
 identifiers:
